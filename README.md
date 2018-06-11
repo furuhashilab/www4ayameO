@@ -1,37 +1,36 @@
 ## Welcome to AyameO Lab
 
-You can use the [editor on GitHub](https://github.com/furuhashilab/www4ayameO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+こんにちは。
+こちらは青山学院大学、古橋研究室の大槻専用のHPです。
+研究室でのアウトプット用として紹介する。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Droneでの空撮作品
 
-### Markdown
+<img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41210088-6aea24ba-6d6a-11e8-9347-8e394295d65d.JPG">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+もっと見る→[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
 
-```markdown
-Syntax highlighted code block
+### その他作品
 
-# Header 1
-## Header 2
-### Header 3
+* グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
+* TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
+* SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 活動ブログ2018年度
 
-**Bold** and _Italic_ and `Code` text
+* [2018/5/6"GWゼミ合宿@森の中"](https://medium.com/furuhashilab/gw%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%A4%A7%E7%94%BA-%E6%A3%AE%E3%81%8F%E3%82%89-92703323d298)
+* [2018/5/12"OpenStreetMapに足りないモノ"](https://medium.com/furuhashilab/openstreetmap%E3%81%AB%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%83%A2%E3%83%8E-e1bf1853e5ce)
+* [2018/5/20"地図に建物って載ってる？"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%81%AB%E5%BB%BA%E7%89%A9%E3%81%A3%E3%81%A6%E8%BC%89%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%A3%E3%81%91-4c78e7bb5fab)
+* [2018/5/25"地図インフラ格差"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%A0%BC%E5%B7%AE-3d6c58bb629a)
+* [2018/5/31"Je soutiens Médecins Sans Frontières"](https://medium.com/furuhashilab/je-soutiens-m%C3%A9decins-sans-fronti%C3%A8res-ea8dcdd72e5a)
+* [2018/6/1"東大、渡邉研究室訪問記"](https://medium.com/furuhashilab/%E6%9D%B1%E5%A4%A7-%E6%B8%A1%E9%82%89%E7%A0%94%E7%A9%B6%E5%AE%A4%E8%A8%AA%E5%95%8F%E8%A8%98-3f154802c90c)
+* [2018/6/3"100%の復興は絶対にない 3.11"](https://medium.com/furuhashilab/100-%E3%81%AE%E5%BE%A9%E8%88%88%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%AA%E3%81%84-3-11-92764b0c11d2)
+* [2018/6/10"人口密集地区におけるOSMデータ格差"](https://medium.com/furuhashilab/%E4%BA%BA%E5%8F%A3%E5%AF%86%E9%9B%86%E5%9C%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bosm%E3%83%87%E3%83%BC%E3%82%BF%E6%A0%BC%E5%B7%AE-3a051e7e77df)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### コンタクト
 
-### Jekyll Themes
+* Facebook： [Ayame Otsuki](https://www.facebook.com/ayame.otsuki)
+* Github: [AyameO](https://github.com/AyameO)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/furuhashilab/www4ayameO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
