@@ -1,4 +1,4 @@
-# Welcome to AyameO Lab
+# Welcome to AyameO website
 
 こんにちは。
 こちらは青山学院大学、古橋研究室、大槻のアウトプット専用のHPです。
