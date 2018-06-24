@@ -9,7 +9,7 @@
 
 ## Other works
 
-* ドローン空撮→[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
+* ドローン空撮→[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)、[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
@@ -26,6 +26,7 @@
 * [2018/6/3"100%の復興は絶対にない 3.11"](https://medium.com/furuhashilab/100-%E3%81%AE%E5%BE%A9%E8%88%88%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%AA%E3%81%84-3-11-92764b0c11d2)
 * [2018/6/10"人口集中地区におけるOSMデータ格差"](https://medium.com/furuhashilab/%E4%BA%BA%E5%8F%A3%E5%AF%86%E9%9B%86%E5%9C%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bosm%E3%83%87%E3%83%BC%E3%82%BF%E6%A0%BC%E5%B7%AE-3a051e7e77df)
 * [2018/6/1７"The 2nd FIG YSNAPM 2018 -day1"](https://medium.com/furuhashilab/the-2nd-fig-ysnapm-2018-day1-a384ff1f5656)
+* [2018/6/24"武甲山って知ってる？"](https://medium.com/furuhashilab/%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B-96f16e6d815d)
 
 
 ## Contact
