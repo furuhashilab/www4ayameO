@@ -28,6 +28,7 @@
 * [2018/6/10"人口集中地区におけるOSMデータ格差"](https://medium.com/furuhashilab/%E4%BA%BA%E5%8F%A3%E5%AF%86%E9%9B%86%E5%9C%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bosm%E3%83%87%E3%83%BC%E3%82%BF%E6%A0%BC%E5%B7%AE-3a051e7e77df)
 * [2018/6/1７"The 2nd FIG YSNAPM 2018 -day1"](https://medium.com/furuhashilab/the-2nd-fig-ysnapm-2018-day1-a384ff1f5656)
 * [2018/6/24"武甲山って知ってる？"](https://medium.com/furuhashilab/%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B-96f16e6d815d)
+* [2018/7/1"OSMの編集ツール、もくじ"](https://medium.com/furuhashilab/osm%E3%81%AE%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB-%E3%82%82%E3%81%8F%E3%81%98-b47d3410fe4f)
 
 
 ## Contact
