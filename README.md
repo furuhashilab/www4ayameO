@@ -36,4 +36,4 @@
 
 * Facebook： [Ayame Otsuki](https://www.facebook.com/ayame.otsuki)
 * Github: [AyameO](https://github.com/AyameO)
-
+* LinkedIn: [大槻純萌](https://www.linkedin.com/in/%E7%B4%94%E8%90%8C-%E5%A4%A7%E6%A7%BB-b20313166) 
