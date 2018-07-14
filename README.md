@@ -9,7 +9,7 @@
 
 ## Other works
 
-* ドローン空撮→[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)、[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)
+* ドローン空撮→[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
 * * 長野県信濃大町、福島県いわき市、埼玉県横瀬町、伊豆大島
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
