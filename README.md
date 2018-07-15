@@ -9,8 +9,21 @@
 
 ## Other works
 
-* ドローン空撮→[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
-* * 長野県信濃大町、福島県いわき市、埼玉県横瀬町、伊豆大島
+* 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
+* 4/18 大和市長 大木哲さんのグラレコ
+[See PDF](https://user-images.githubusercontent.com/13360878/38985498-7d866578-4404-11e8-8745-c6dd491cc734.png)
+* TaskingManagerマニュアル動画
+[See the video](https://youtu.be/-tkZym5L0KI)
+* 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
+* 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
+* 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
+
+* ドローン空撮[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
+* 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
+* 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
+* 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
+* 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
+
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
