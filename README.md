@@ -2,7 +2,7 @@
 
 こんにちは。こちらは青山学院大学4年、古橋研究室、大槻純萌のアウトプット専用のサイトです。
 
-## Custom Map
+## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">
 
