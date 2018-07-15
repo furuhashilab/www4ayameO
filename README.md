@@ -7,16 +7,7 @@
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">
 
 
-## Other works
-
-* 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
-* 4/18 大和市長 大木哲さんのグラレコ
-[See PDF](https://user-images.githubusercontent.com/13360878/38985498-7d866578-4404-11e8-8745-c6dd491cc734.png)
-* TaskingManagerマニュアル動画
-[See the video](https://youtu.be/-tkZym5L0KI)
-* 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
-* 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
-* 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
+## Drone movie
 
 * ドローン空撮[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
 * 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
@@ -24,6 +15,7 @@
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
 * 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
 
+## Other works
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
@@ -43,6 +35,7 @@
 * [2018/6/24"武甲山って知ってる？"](https://medium.com/furuhashilab/%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B-96f16e6d815d)
 * [2018/7/1"OSMの編集ツール、もくじ"](https://medium.com/furuhashilab/osm%E3%81%AE%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB-%E3%82%82%E3%81%8F%E3%81%98-b47d3410fe4f)
 * [2018/7/6"JOSMというツール"](https://medium.com/furuhashilab/josm%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-4e07cac389af)
+* [2018/7/16"ゼミ合宿＠伊豆大島"](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6-88ed09b33fa7)
 
 
 ## Contact
