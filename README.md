@@ -20,6 +20,10 @@
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
 
+## Share works
+* 古橋研究室合同[OSMアカウント](https://www.openstreetmap.org/user/furuhashilab)
+* 古橋研究室合同[uMapアカウント](https://umap.openstreetmap.fr/ja/user/furuhashilab/)
+
 
 ## Weekly Blog
 
