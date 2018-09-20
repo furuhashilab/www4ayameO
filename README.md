@@ -48,6 +48,7 @@
 * [2018/8/24"アフリカ上陸！"](https://medium.com/furuhashilab/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E4%B8%8A%E9%99%B8-43b91d544cca?source=linkShare-b4a6d6b116a9-1535053859)
 * [2018/９/14"タンザニアとケニア、わたし。"](https://medium.com/furuhashilab/%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2%E3%81%A8%E3%82%B1%E3%83%8B%E3%82%A2-%E3%82%8F%E3%81%9F%E3%81%97-92c393ed3c4e)
 * [2018/９/16"maps.meというツール"](https://medium.com/furuhashilab/maps-me%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-eb086f2a6d06)
+* [2018/９/21"翻訳ソンって聞いたことある？"](https://medium.com/furuhashilab/%E7%BF%BB%E8%A8%B3%E3%82%BD%E3%83%B3%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B-9c88133463b)
 
 ## Contact
 
