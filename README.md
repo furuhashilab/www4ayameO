@@ -9,7 +9,8 @@
 
 ## Drone movie
 
-* ドローン空撮[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
+* ドローン空撮 [YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
+* アフリカで学生最後の夏休み[See video](https://youtu.be/0rHb6UES92A)
 * 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
