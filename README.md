@@ -54,6 +54,7 @@
 * [2018/9/25"Mapillaryというツール"](https://medium.com/furuhashilab/mapillary%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-e6f19c6fb668)
 * [2018/9/27"ゼミ合宿＠山中湖"](https://medium.com/@a.13e.pon/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%B1%B1%E4%B8%AD%E6%B9%96-a3df819e1789)
 * [2018/9/27"ゼミ合宿＠森くら(今期２回目)"](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E6%A3%AE%E3%81%8F%E3%82%89-%E4%BB%8A%E6%9C%9F%EF%BC%92%E5%9B%9E%E7%9B%AE-376a67a531b1)
+* [2018/10/8"Go Map!!というツール"](https://medium.com/furuhashilab/go-map-%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-70a42718689f)
 
 ## Contact
 
