@@ -58,6 +58,7 @@
 * [2018/10/14"Mapswipeというツール"](https://medium.com/furuhashilab/mapswipe%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-15111f661782)
 * [2018/10/18"東村市防災訓練活動記"](https://medium.com/furuhashilab/%E6%9D%B1%E6%9D%91%E5%B8%82%E9%98%B2%E7%81%BD%E8%A8%93%E7%B7%B4%E6%B4%BB%E5%8B%95%E8%A8%98-6b3e52ef5a16)
 * [2018/10/21"OpenStreetCamというツール"](https://medium.com/furuhashilab/openstreetcam%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-b3369e5d960a)
+* [2018/10/28"OpenStreetMap×MyWork"](https://medium.com/furuhashilab/openstreetmap-mywork-49a9219d6928)
 
 ## Contact
 
