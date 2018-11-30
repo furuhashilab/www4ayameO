@@ -2,6 +2,8 @@
 
 こんにちは。こちらは青山学院大学4年、古橋研究室、大槻純萌のアウトプット専用のサイトです。
 
+## 卒業研究 [Github](https://github.com/furuhashilab/BCr.map)
+
 ## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">
@@ -63,7 +65,7 @@
 * [2018/11/5"OpenStreetMap×PWA"](https://medium.com/furuhashilab/openstreetmap-pwa-cbed8bbe2218)
 * [2018/11/11"PWAの利用方法"](https://medium.com/furuhashilab/pwa%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95-52d644c031b8)
 * [2018/11/18"ドローンの初心者講座"](https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%9D%E5%BF%83%E8%80%85%E8%AC%9B%E7%BF%92-8b4854b83749)
-
+* [2018/11/30"Wheelmapというツール"](https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%9D%E5%BF%83%E8%80%85%E8%AC%9B%E7%BF%92-8b4854b83749)
 
 ## Contact
 
