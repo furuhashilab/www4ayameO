@@ -67,6 +67,7 @@
 * [2018/11/18"ドローンの初心者講座"](https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%9D%E5%BF%83%E8%80%85%E8%AC%9B%E7%BF%92-8b4854b83749)
 * [2018/11/30"Wheelmapというツール"](https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%9D%E5%BF%83%E8%80%85%E8%AC%9B%E7%BF%92-8b4854b83749)
 * [2018/12/11"GitHubで卒論管理"](https://medium.com/furuhashilab/github%E3%81%A7%E5%8D%92%E8%AB%96%E7%AE%A1%E7%90%86-6f80988628e4)
+* [2018/12/14"現在位置表現実装"](https://medium.com/@a.13e.pon/%E7%8F%BE%E5%9C%A8%E4%BD%8D%E7%BD%AE%E8%A1%A8%E7%8F%BE%E5%AE%9F%E8%A3%85-a9084e9e4756)
 
 ## Contact
 
