@@ -69,6 +69,7 @@
 * [2018/12/11"GitHubで卒論管理"](https://medium.com/furuhashilab/github%E3%81%A7%E5%8D%92%E8%AB%96%E7%AE%A1%E7%90%86-6f80988628e4)
 * [2018/12/14"現在位置表現実装"](https://medium.com/@a.13e.pon/%E7%8F%BE%E5%9C%A8%E4%BD%8D%E7%BD%AE%E8%A1%A8%E7%8F%BE%E5%AE%9F%E8%A3%85-a9084e9e4756)
 * [2018/12/16"PWAでアプリのアイコン表示"](https://medium.com/furuhashilab/pwa%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E8%A1%A8%E7%A4%BA-92ba663b7e37)
+* [2018/12/27"地物追加機能実装"](https://medium.com/furuhashilab/%E5%9C%B0%E7%89%A9%E8%BF%BD%E5%8A%A0%E6%A9%9F%E8%83%BD%E5%AE%9F%E8%A3%85-c69f24f2b7cf)
 
 ## Contact
 
