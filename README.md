@@ -71,6 +71,8 @@
 * [2018/12/16"PWAでアプリのアイコン表示"](https://medium.com/furuhashilab/pwa%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E8%A1%A8%E7%A4%BA-92ba663b7e37)
 * [2018/12/27"地物追加機能実装"](https://medium.com/furuhashilab/%E5%9C%B0%E7%89%A9%E8%BF%BD%E5%8A%A0%E6%A9%9F%E8%83%BD%E5%AE%9F%E8%A3%85-c69f24f2b7cf)
 * [2019/1/5"ポリゴンをGeoJSONで所得する方法"](https://medium.com/furuhashilab/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%82%92geojson%E3%81%A7%E6%89%80%E5%BE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-88f8c216063c)
+* [2019/1/6"効率の良い建物データの追加とは"](https://medium.com/furuhashilab/%E5%8A%B9%E7%8E%87%E3%81%AE%E8%89%AF%E3%81%84%E5%BB%BA%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%81%A8%E3%81%AF-c709620263e1)
+
 
 
 ## Contact
