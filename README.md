@@ -3,6 +3,7 @@
 こんにちは。こちらは青山学院大学4年、古橋研究室、大槻純萌のアウトプット専用のサイトです。
 
 ## 卒業研究 [Github](https://github.com/furuhashilab/BCr.map)
+<img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/51421104-ba11e200-1bdc-11e9-946c-fa606961a9c4.png">
 
 ## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
