@@ -21,7 +21,7 @@
 
 ## Other works
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
-* グラフィックレコーディング集(2018年度分)→[Github](https://github.com/AyameO/Seminar2018/issues/1)
+* グラフィックレコーディング集(2018年度分)→[Github](https://github.com/AyameO/Seminor2018/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)
 
