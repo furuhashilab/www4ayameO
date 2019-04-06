@@ -4,14 +4,17 @@
 
 ## 卒業研究
 * [Github](https://github.com/furuhashilab/BCr.map)
-<img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/51421104-ba11e200-1bdc-11e9-946c-fa606961a9c4.png">  
 
+<img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/51421104-ba11e200-1bdc-11e9-946c-fa606961a9c4.png">  
+  
+  
 ## Custom Map
 * [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 * [Mapbox](https://api.mapbox.com/styles/v1/ayame/cj6ila4ar5f9k2spgcwylkls3.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYXlhbWUiLCJhIjoiY2ozZTI0dGoxMDBycDMzbnhxbXhxdjhwMyJ9.zUeKcEjH1a_siXmZxWgCmw#13.3/35.64953/139.74354)
 
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">  
-
+  
+  
 
 ## Drone movie
 
@@ -21,19 +24,22 @@
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
 * 埼玉県横瀬町の棚田での空撮[See ](https://www.youtube.com/watch?v=qJAtC3ScgeA)  
-
+  
+  
 ## Other works
 * グラフィックレコーディング集(2017年度分)→[Github](https://github.com/AyameO/Seminar2017/issues/1)
 * グラフィックレコーディング集(2018年度分)→[Github](https://github.com/AyameO/Seminor2018/issues/1)
 * TaskingManagerマニュアル動画→[Youtube](https://www.youtube.com/watch?v=-tkZym5L0KI&feature=youtu.be)
 * SotMプレゼン資料→[SpeakerDeck](https://speakerdeck.com/ayameo/sotm-agu?slide=1)  
-
+  
+  
 ## Share works
 * 古橋研究室合同[OSMアカウント](https://www.openstreetmap.org/user/furuhashilab)
 * 古橋研究室合同[uMapアカウント](https://umap.openstreetmap.fr/ja/user/furuhashilab/)
 * 古橋研究室合同[YouTubeアカウント](https://www.youtube.com/channel/UC7ibSx7RwsxQPGjHX0ab5TQ)
 * 古橋研究室合同[Githubアカウント](https://github.com/furuhashilab)  
-
+  
+  
 ## Weekly Blog
 
 * [2018/5/6"GWゼミ合宿@森の中"](https://medium.com/furuhashilab/gw%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%A4%A7%E7%94%BA-%E6%A3%AE%E3%81%8F%E3%82%89-92703323d298)
@@ -77,8 +83,8 @@
 * [2018/12/27"地物追加機能実装"](https://medium.com/furuhashilab/%E5%9C%B0%E7%89%A9%E8%BF%BD%E5%8A%A0%E6%A9%9F%E8%83%BD%E5%AE%9F%E8%A3%85-c69f24f2b7cf)
 * [2019/1/5"ポリゴンをGeoJSONで所得する方法"](https://medium.com/furuhashilab/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%82%92geojson%E3%81%A7%E6%89%80%E5%BE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-88f8c216063c)
 * [2019/1/6"効率の良い建物データの追加とは"](https://medium.com/furuhashilab/%E5%8A%B9%E7%8E%87%E3%81%AE%E8%89%AF%E3%81%84%E5%BB%BA%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%81%A8%E3%81%AF-c709620263e1)  
-
-
+  
+  
 
 ## Contact
 
