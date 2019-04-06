@@ -5,7 +5,9 @@
 ## 卒業研究 [Github](https://github.com/furuhashilab/BCr.map)
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/51421104-ba11e200-1bdc-11e9-946c-fa606961a9c4.png">
 
-## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
+## Custom Map
+* [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
+* [Mapbox](https://api.mapbox.com/styles/v1/ayame/cj6ila4ar5f9k2spgcwylkls3.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYXlhbWUiLCJhIjoiY2ozZTI0dGoxMDBycDMzbnhxbXhxdjhwMyJ9.zUeKcEjH1a_siXmZxWgCmw#13.3/35.64953/139.74354)
 
 <img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">
 
