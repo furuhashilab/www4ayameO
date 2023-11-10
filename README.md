@@ -1,6 +1,6 @@
 # Welcome to AyameO website
 
-こちらは青山学院大学4年、古橋研究室所属の大槻純萌専用のアウトプットサイトです。
+こちらは青山学院大学、古橋研究室所属Ayame専用のアウトプットサイトです。
 
 ## 卒業研究
 * [Github](https://github.com/furuhashilab/BCr.map)
