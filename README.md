@@ -85,9 +85,3 @@
 * [2019/1/6"効率の良い建物データの追加とは"](https://medium.com/furuhashilab/%E5%8A%B9%E7%8E%87%E3%81%AE%E8%89%AF%E3%81%84%E5%BB%BA%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%81%A8%E3%81%AF-c709620263e1)  
   
   
-
-## Contact
-
-* Facebook： [Ayame Otsuki](https://www.facebook.com/ayame.otsuki)
-* Github: [AyameO](https://github.com/AyameO)
-* LinkedIn: [大槻純萌](https://www.linkedin.com/in/%E7%B4%94%E8%90%8C-%E5%A4%A7%E6%A7%BB-b20313166) 
